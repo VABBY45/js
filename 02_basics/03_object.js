@@ -1,6 +1,6 @@
 //what is singleton-
 //learn object declaration 
-
+//it was object literal
 const mysym=Symbol("key1");
 const jsuser={
 
@@ -36,4 +36,3 @@ console.log(jsuser.email);
     console.log(`Hellow js user, ${this.name}`)
  }
  console.log(jsuser.greetings2());
- 
