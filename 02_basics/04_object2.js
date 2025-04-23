@@ -43,3 +43,14 @@ const tinderuser={
 const obj3={...newuser02,...newuser1}
 console.log(obj3);
 
+// object Destructuring
+
+const course={
+
+    name:"Reactjs",
+    price:"710",
+    writenby:"vaibhav patil",
+}
+//here is simplest exaple of obj destructuring //
+const {price:p,writenby}=course;
+console.log(p);
