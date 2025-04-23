@@ -57,9 +57,9 @@ console.log(p);
 
 //here:: json how to declare json and how to use it  json declare=={}//
 
-{
-    "name":"vaibhav",
-    "age":"20",
-    "lastName":"patil"
-}
+//{
+    //"name":"vaibhav",
+   // "age":"20",
+   // "lastName":"patil"
+//}
  
