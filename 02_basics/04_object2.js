@@ -54,3 +54,12 @@ const course={
 //here is simplest exaple of obj destructuring //
 const {price:p,writenby}=course;
 console.log(p);
+
+//here:: json how to declare json and how to use it  json declare=={}//
+
+{
+    "name":"vaibhav",
+    "age":"20",
+    "lastName":"patil"
+}
+ 
